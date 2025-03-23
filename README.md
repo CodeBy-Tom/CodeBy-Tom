@@ -28,7 +28,7 @@
 
 | ⭐ Project | 🔍 Description | Link|
 |----------|----------------|-----------|
-| **Rotating cube** |A HTML Rotating Cube|-
+| **Rotating cube** |A HTML Rotating Cube|https://github.com/CodeBy-Tom/RotatingCube
 
 ---
 
