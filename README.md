@@ -12,7 +12,7 @@
 
 
 - 🔬 Obsessed with electronics, clean code, and clever design
-- - 🌐 My website: [codebytom.com](https://codebytom.com)
+-  🌐 My website: [codebytom.com](https://codebytom.com)
 
 ---
 
