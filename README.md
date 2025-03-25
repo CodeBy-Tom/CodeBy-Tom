@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,cs,py,js,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,cs,py,css,html,js,unity,vscode" />
 </p>
 
 ---
