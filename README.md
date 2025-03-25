@@ -38,9 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeBy-Tom&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeBy-Tom&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBy-Tom&layout=compact&theme=radical" alt="Top Languages" />
